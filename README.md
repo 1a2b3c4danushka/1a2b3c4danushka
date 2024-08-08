@@ -27,10 +27,10 @@ Fun fact : I love Dancing.<br>
 ![Anushka Singh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1a2b3c4danushka&theme=radical&hide_border=false)<br>
 ![Anushka Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1a2b3c4danushka&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-# Reach me on:
+# 📫Reach me on:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
-# 💻 Checkout my Repo:
+# 💻 Checkout my Repo ⬇️
 ---
